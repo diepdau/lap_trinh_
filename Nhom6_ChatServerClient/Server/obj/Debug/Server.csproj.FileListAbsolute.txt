@@ -1,0 +1,11 @@
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.Properties.Resources.resources
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.Server.resources
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\bin\Debug\Server.exe.config
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\bin\Debug\Server.exe
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\bin\Debug\Server.pdb
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.exe
+D:\n3_hk1\Lập trình mạng\Nhom6_ChatServerClient\Server\obj\Debug\Server.pdb
